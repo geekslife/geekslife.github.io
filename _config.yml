@@ -1,0 +1,3 @@
+name: Haeyoung Kim
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
